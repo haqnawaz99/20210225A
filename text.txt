@@ -1,2 +1,3 @@
-It is our first line.
+It is our first.
 It is new line we are going to insert.
+The third one s here.
