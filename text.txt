@@ -1,1 +1,2 @@
 It is our first line.
+It is new line we are going to insert.
